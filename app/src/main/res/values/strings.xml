@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SampleRecyclerView</string>
+    <string-array name="Names">
+        <item>C++</item>
+        <item>JAVA</item>
+        <item>JAVASCRIPT</item>
+        <item>PYTHON</item>
+        <item>TYPESCRIPT++</item>
+    </string-array>
+</resources>
